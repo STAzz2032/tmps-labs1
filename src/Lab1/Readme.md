@@ -61,7 +61,7 @@ One important part is that the Car Engineer is not dependent on specific impleme
 For now, I have provided a simple result - a simple print of the fields from the created Car.
 Example:
 
-![Capture](https://drive.google.com/drive/folders/107ugvvLiGss0AO-K9vFsDebdcoqJ_hTQ?usp=sharing)
+![Capture](https://github.com/STAzz2032/tmps-labs1/assets/70953182/6597c90c-121a-4fd8-99e8-770ac08e8dd8)
 
 ## Conclusions
 In this project I have defined the main classes of an car creation and used inherition for some methods to make them more functional for further labs.
