@@ -8,8 +8,8 @@
 
 ## Abstract
 
-&ensp;&ensp; This repository contains the laboratory works tasks.
-The markdown file for each task can be accessed via the links below.  
+&ensp;&ensp; This repository contains the laboratory works. 
+&ensp;&ensp; The markdown file for each task can be accessed via the links below.  
 
 ## Laboratory work tasks
 
