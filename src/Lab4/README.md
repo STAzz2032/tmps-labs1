@@ -139,7 +139,7 @@ public class Main {
         .setClients(
             new LinkedList<>(
                 Arrays.asList(
-                    new Client("123", "Radu", "Arama", 21, 0, 0),
+                    new Client("123", "Sergiu", "Bandalac", 21, 0, 0),
                     new Client("124", "Vanea", "Vanea", 23, 5, 5),
                     new Client("125", "Jora", "Jora", 25, 4, 2))));
 
